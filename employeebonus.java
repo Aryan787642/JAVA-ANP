@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Bonus {
-    public static void main(String[] args) 
+    public static void main(String args[]) 
     {
         Scanner sn = new Scanner(System.in);
 
